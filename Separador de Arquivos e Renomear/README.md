@@ -31,4 +31,4 @@ pip install -r requirements.txt
 - O aplicativo gera logs no arquivo `app.log`.
 
 ---
-Desenvolvido por [Seu Nome].
+Desenvolvido por Anizio Neto
